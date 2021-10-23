@@ -1,0 +1,7 @@
+
+xmonad.hs:160:1: warning: [-Wtabs]
+    Tab character found here.
+    Please use spaces instead.
+    |
+160 |             , ppTitle = wrap  "<box type=Bottom width=2 mb=2>" "</box>" . wrap "[" "]"
+    | ^^^^^^^^
