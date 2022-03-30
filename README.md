@@ -1,3 +1,3 @@
 # dotfiles
 
-Some "self-made" dotfiles for my linux installation.
+Some "self-made / found" dotfiles for my linux installation.
